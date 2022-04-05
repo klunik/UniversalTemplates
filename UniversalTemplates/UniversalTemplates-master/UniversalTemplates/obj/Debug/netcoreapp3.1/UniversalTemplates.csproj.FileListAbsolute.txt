@@ -1,0 +1,4 @@
+C:\Users\aleks\Desktop\UniversalTemplates-master\UniversalTemplates-master\UniversalTemplates\obj\Debug\netcoreapp3.1\UniversalTemplates.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\UniversalTemplates-master\UniversalTemplates-master\UniversalTemplates\obj\Debug\netcoreapp3.1\UniversalTemplates.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\UniversalTemplates-master\UniversalTemplates-master\UniversalTemplates\obj\Debug\netcoreapp3.1\UniversalTemplates.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\UniversalTemplates-master\UniversalTemplates-master\UniversalTemplates\obj\Debug\netcoreapp3.1\UniversalTemplates.AssemblyInfo.cs
