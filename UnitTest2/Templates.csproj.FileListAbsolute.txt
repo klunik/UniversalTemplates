@@ -1,0 +1,13 @@
+C:\Users\Зератул\source\Templates\Templates\bin\Debug\netcoreapp3.1\Templates.exe
+C:\Users\Зератул\source\Templates\Templates\bin\Debug\netcoreapp3.1\Templates.deps.json
+C:\Users\Зератул\source\Templates\Templates\bin\Debug\netcoreapp3.1\Templates.runtimeconfig.json
+C:\Users\Зератул\source\Templates\Templates\bin\Debug\netcoreapp3.1\Templates.runtimeconfig.dev.json
+C:\Users\Зератул\source\Templates\Templates\bin\Debug\netcoreapp3.1\Templates.dll
+C:\Users\Зератул\source\Templates\Templates\bin\Debug\netcoreapp3.1\Templates.pdb
+C:\Users\Зератул\source\Templates\Templates\obj\Debug\netcoreapp3.1\Templates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Зератул\source\Templates\Templates\obj\Debug\netcoreapp3.1\Templates.AssemblyInfoInputs.cache
+C:\Users\Зератул\source\Templates\Templates\obj\Debug\netcoreapp3.1\Templates.AssemblyInfo.cs
+C:\Users\Зератул\source\Templates\Templates\obj\Debug\netcoreapp3.1\Templates.csproj.CoreCompileInputs.cache
+C:\Users\Зератул\source\Templates\Templates\obj\Debug\netcoreapp3.1\Templates.dll
+C:\Users\Зератул\source\Templates\Templates\obj\Debug\netcoreapp3.1\Templates.pdb
+C:\Users\Зератул\source\Templates\Templates\obj\Debug\netcoreapp3.1\Templates.genruntimeconfig.cache
